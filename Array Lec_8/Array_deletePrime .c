@@ -1,7 +1,5 @@
 
 
-
-
 void array_print(int *arr,int size)
 {
     int i;
@@ -51,20 +49,3 @@ int main()
         array_print(arr,10);
 		   return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
